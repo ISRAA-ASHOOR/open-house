@@ -387,4 +387,19 @@ button:hover {
 .auth:hover {
     background-color: #667dae;
 }
+
+.add {
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    background-color: #274c9c;
+    padding: 7px 15px;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.add:hover {
+    background-color: #667dae;
+}
   
